@@ -1,5 +1,5 @@
-# questoes-inovamind
-Questões da InovaMind
+# Questões da InovaMind
+
 
 ![Questão 1](https://i.imgur.com/PWJAcJj.png)
 
